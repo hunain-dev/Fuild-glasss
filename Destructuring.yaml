@@ -2,10 +2,10 @@
 
 
 npms
-tailwind css
-gsap
-locomtoive
-framer motion
+tailwind css ✅
+gsap ✅
+locomtoive ✅
+framer motion ✅
 
 
 pages
@@ -13,51 +13,51 @@ pages
 Home
 
 Sections
-Landing pages
-About fuildglass
-product colelction = me kisi bhi card pe click krengey to collection wala page one hoga
+Landingpages  ✅
+Aboutfuildglass ✅
+productcolelction = me kisi bhi card pe click krengey to collection wala page one hoga
 
-ideashowcase = jese hi click hoga to popup khulega and video show hogi and pin hoke width aur hegiht bari lega jab tk full na hojahy
+ideashowcase = jese hi click hoga to popup khulega and video show hogi and pin hoke width aur hegiht bari lega jab tk full na hojahy ✅
 
-Featured Projects = me Project section open hoga
-House show case hoga jo text hover pe imaeges show hongi unpe click krengey to id se details page open hoga
+FeaturedProjects = me Project section open hoga
+House show case hoga jo text hover pe imaeges show hongi unpe click krengey to id se details page open hoga  ✅
 
 
 
-ClientStories (Component resue)  
-Ourvision (Component Reuse)
+ClientStories (Component resue)   ✅
+Ourvision (Component Reuse) ✅
 
 ---->
 Footer ki khas bat ye hai ke wo back se ayega aur hr page me footer chnage hoga
-mtlb ke images chnages hongi
+mtlb ke images chnages hongi ✅
 
-Aur jese hi navbar Footer me ati hai to Direct open hojahy Navbar
+Aur jese hi navbar Footer me ati hai to Direct open hojahy Navbar ✅
 
 
 
 
 Aboutus
-Section
+c
 
-About landing page
-Manifesto = Section reuse hoga
-The-beleifes =  usme jo text hai hamare pass charity = crafte = care scroll krengey gey to craf beach me ajahyga
-Our value 
-pre-construrtion me hamare pass team hogni  = 8 bando ki team hogi aik card chota aik card bra aur second hamare pass scroll hone pe card chlenl
-Founder-journey
-Client Stories (Resue)
-OurAwwwards
-Ourvision (Component Reuse)
+Aboutlanding  ✅
+Manifesto = Section reuse hoga ✅
+Thebeleifes =  usme jo text hai hamare pass charity = crafte = care scroll krengey gey to craf beach me ajahyga ✅
+Ourvalue ✅
+preconstrurtion me hamare pass team hogni  = 8 bando ki team hogi aik card chota aik card bra aur second hamare pass scroll hone pe card chlenl ✅
+Founderjourney ✅
+Client Stories (Resue) ✅
+OurAwwwards ✅
+Ourvision (Component Reuse) 
 
 ---->
-Footer (Resue hoga)
+Footer (Resue hoga) 
 
 
 
-Collection
-Collection-landing = uske andr 3 premimum card hongey click hon e pe details show hogii
-Fuild-Collection = Details show hogi
-brouches
+Collection ✅
+Collectionlanding = uske andr 3 premimum card hongey click hon e pe details show hogii ✅
+FuildCollection = Details show hogi ✅
+brouches ✅
 Ourvision (Component Reuse)
 ---->
 Footer (Resue hoga)
@@ -68,47 +68,48 @@ Footer (Resue hoga)
 
 
 Projects
-Project landig page me Slider jo Smoothly clega
-Project-area wohi detailsing
-Our vision (Component)
+Projectlanding page me Slider jo Smoothly clega ✅
+Projectarea wohi detailsing ✅
+Our vision (Component) ✅
 ---->
-Footer (Resue hoga)
+Footer (Resue hoga) ✅
 
 
-Approach
-OurApprocha- landing page me scroll hone pe image chnage hogi
-Services
+Approach ✅
+OurApprochlanding page me scroll hone pe image chnage hogi ✅
+Services ✅
 Client-Stories (Component resue)
-Our-process =  Cards scroll hongyl
-Faqs
+Ourprocess =  Cards scroll hongyl ✅
+Faqs Reuse 
 Our vision (Component)
 ---->
 Footer (Resue hoga)
 
 
-Contact
-Our Contact Laning page
-Faqs Reuse
+Contact  ✅
+OurContactLanding page ✅
+Faqs Reuse 
 ---->
 Footer (Resue hoga)
 
 components
-Button
-Section
-ClientStories
-Faqs
-404page not found
-Scrolling product
-Ourvision
-
-Comoon
-Loader
-Header
-Footer
+Button ✅ 
+Section ✅
+ClientStories ✅
+Faqs ✅
+404page not found ✅ 
+Scrollingproduct ✅
+Ourvision ✅
 
 
-public ke adnr fonts and images hongi
-fonts
+Comoon ✅
+Loader ✅
+Header ✅
+Footer ✅
+
+
+public ke adnr fonts and images hongi ✅
+fonts ✅
 
 
 
